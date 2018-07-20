@@ -22,7 +22,7 @@
         <h2>Developed by Bergen Tech Code Club</h2>
         <nav class="buttons">
             <a class="current" href="/">HOME</a>
-            <a href="/125buildings.">Streeteasy Scraper</a>	
+            <a href="/125activelistingstab.">Streeteasy Scraper</a>	
         </nav>
 	${error}
 	<!-- div class="alert"> !! We are aware of the login error and are currently working on fixing it !! </div>  -->
